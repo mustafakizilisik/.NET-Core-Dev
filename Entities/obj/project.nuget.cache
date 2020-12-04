@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiUicGGJGcQudyE2RVAqGzM0IaOeRbenw0ZhLR06fiJ8E2jHjtb4vbGqkry0vUc0qGpQQheuATDV+6Mm5nqW9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkizi\\source\\repos\\NorthwindBackend\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkizi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mkizi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
