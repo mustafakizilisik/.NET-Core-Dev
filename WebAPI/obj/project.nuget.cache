@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AImAjEL9B9W/5OFYCAap7XRPZuRuGh9DJwqvXweuCefCpp8bx0W56FLHE4+Ymv5c9Ro4yJkfy7GOWNDO19ZnIQ==",
+  "dgSpecHash": "rLD0SrLA78TRCcSqyEfPLsLQx7/UXgZ7mQUXJCvPjVy5Nur8NQ+XBVvfBTzeRzDbaACLDoZ+pOVnsMlYsNVteA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkizi\\source\\repos\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

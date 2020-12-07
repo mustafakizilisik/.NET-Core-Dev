@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KpTaah/yOxJYp6BpNKFhqGXzqaqyLo+ydYv4kQjIhwoBHUZLVz9vTjaq3tFHb1I8IEoEI1jHBsOQ+LBG59Zd4A==",
+  "dgSpecHash": "Q9ZUrYJePRhK69nsbY29kqL/L3Ifw+JETEV4UNkjXlOSRJwG7yMpLiVNP20wevMxq+ejzx7ueN1cGEWEP2Ex9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkizi\\source\\repos\\NorthwindBackend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mkizi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\mkizi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mustafa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
