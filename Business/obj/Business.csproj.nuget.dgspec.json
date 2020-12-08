@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj": {}
+    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj": {
+    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

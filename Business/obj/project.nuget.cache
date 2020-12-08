@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zO0DTtDMeUqiOMuo4UefYtQd8CzB/RNro0gbOKKh/k/g+QQ5udKnh69d3n0+2F+TOWQuhEYOvOsfzRRJaF/UKw==",
+  "dgSpecHash": "ixcEux5L+LIL4JrTrSp2sge2qmtqUxxdqbKzVgzs+mBc26XVUaioED9+dW1NGYAxSA6gYGOunveCQwM2tR6I+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

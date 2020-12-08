@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj": {}
+    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj": {
+    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
