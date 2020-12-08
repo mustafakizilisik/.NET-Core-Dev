@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\Source\\Repos\\NET-Core-Dev\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
