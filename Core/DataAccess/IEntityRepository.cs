@@ -6,6 +6,7 @@ using System.Text;
 
 namespace Core.DataAccess
 {
+    //Generic Repository <T> where T:class,IEntity,new()
     public interface IEntityRepository<T> where T:class,IEntity,new()
     {
         //Güncelleme yapacağımız zaman genelde Id'ye göre yapılır.

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Business\\Business.csproj": {}
+    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Business\\Business.csproj": {
+    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\Entities.csproj"
+              "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj"
               }
             }
           }
@@ -61,18 +64,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\Core.csproj": {
+    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,18 +125,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\Entities.csproj": {
+    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,8 +153,76 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\Core\\Core.csproj"
+              "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj"
+              },
+              "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Core\\Core.csproj"
               }
             }
           }
@@ -183,7 +254,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

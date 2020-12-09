@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+J492CnxdTGNbnLOjZZPCJl0NwH8EY/UgfQcMLjLOStbXfhU4DJpgTIS38un8oiJ2OEGF783OEKwMKhx1W9xvg==",
+  "dgSpecHash": "wLtWJCBv1iddSo7EOTyBSwiu+VGwNMH6EJS/1k3f9cpSujlakHrn69CMvTAFvkHPYanBlKcCfW6iy2QfpIl+8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\mustafakizilisik\\NET-Core-Dev\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

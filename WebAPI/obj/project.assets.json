@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa\\Source\\Repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Mustafa\\Source\\Repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa\\Source\\Repos\\mustafakizilisik\\NET-Core-Dev\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
