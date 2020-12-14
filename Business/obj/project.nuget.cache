@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ohz3CJzj7yHsWxpjyozvMqRmc7KlzuyG+orLpvxjd5VePa7mamLkxjRTFySMorTZoVFv5wlpddygyzzkiALqSg==",
+  "dgSpecHash": "Nd5udb1gqilpuJXcxrn6fyzSz1fwwW4RlSky8CI+zCWikTOskE5zH18wpd6EdhsnEfX93VX9cgI5TtDhxfBowg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Mustafa\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

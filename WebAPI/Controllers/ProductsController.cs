@@ -20,7 +20,7 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
 
-        //getall tüm ürünleri getirmek için
+        //getall tüm ürünleri getirir.
         [HttpGet("getall")]
         public IActionResult GetList()
         {

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wLtWJCBv1iddSo7EOTyBSwiu+VGwNMH6EJS/1k3f9cpSujlakHrn69CMvTAFvkHPYanBlKcCfW6iy2QfpIl+8w==",
+  "dgSpecHash": "zklp1b8daW9qC6EpFe/obm0y7M1XSS7G/umfidihNchBnl5OeC/kWRM3cgyox9N8Q88naRCM0iXc1bA5qbH9Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

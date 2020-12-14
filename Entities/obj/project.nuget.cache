@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b5haGT19UsCNM2+JQaY86QaGHrg23RF0/5+Amtq74ZlwAtVNYh833y1/i5K2MJsX8CezbVqtxswF4bOwiQIZZA==",
+  "dgSpecHash": "d1rlO6IbKRdZxlS0oLW7/d5JBC8mBmAEabtR80ix4ZRl6CfQWPhb1agyvWR0GJ7W9hxAALwGIsYXQj98HuO3Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\NET-Core-Dev\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
