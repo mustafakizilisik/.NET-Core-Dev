@@ -9,6 +9,7 @@ using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using Core.CrossCuttingConcerns.Validation;
+using Core.Utilities.Business;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -32,7 +33,7 @@ namespace Business.Concrete
 
         public IDataResult<Product> GetById(int productId)
         {
-            return new SuccessDataResult<Product>(_productDal.Get(p => p.ProductId == productId)); 
+            return new SuccessDataResult<Product>(_productDal.Get(p => p.ProductId == productId));
         }
 
         [PerformanceAspect(5)]
@@ -44,7 +45,7 @@ namespace Business.Concrete
 
         //[SecuredOperation("Product.List,Admin")]
         [LogAspect(typeof(DatabaseLogger))]
-        [CacheAspect(duration:10)]
+        [CacheAspect(duration: 10)]
         public IDataResult<List<Product>> GetListByCategory(int categoryId)
         {
             return new SuccessDataResult<List<Product>>(_productDal.GetList(p => p.CategoryId == categoryId).ToList());
@@ -54,10 +55,24 @@ namespace Business.Concrete
         [CacheRemoveAspect("IProductService.Get")]
         public IResult Add(Product product)
         {
-            ValidationTool.Validate(new ProductValidator(), product);
-            //Business codes
+            IResult result = BusinessRules.Run(CheckIfProductNameExists(product.ProductName));
+            if (result != null)
+            {
+                return result;
+            }
             _productDal.Add(product);
             return new SuccessResult(Messages.ProductAdded);
+        }
+
+        private IResult CheckIfProductNameExists(string productName)
+        {
+            var result = _productDal.GetList(p => p.ProductName == productName).Any();
+            if (result)
+            {
+                return new ErrorResult(Messages.ProductNameAlreadyExist);
+            }
+
+            return new SuccessResult();
         }
 
         public IResult Delete(Product product)

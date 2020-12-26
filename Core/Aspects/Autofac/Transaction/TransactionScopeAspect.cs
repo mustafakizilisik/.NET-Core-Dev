@@ -18,7 +18,7 @@ namespace Core.Aspects.Autofac.Transaction
                     invocation.Proceed();//MethodInterception classı içerisindeki Intercept methodu kodları çalışıyor.
                     transactionScope.Complete();
                 }
-                catch (Exception)
+                catch (System.Exception)
                 {
                     transactionScope.Dispose();
                     throw;

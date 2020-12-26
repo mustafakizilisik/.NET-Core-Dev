@@ -21,7 +21,7 @@ namespace Business.BusinessAspect.Autofac
             _roles = roles.Split(',');
             _httpContextAccessor = ServiceTool.ServiceProvider.GetService<IHttpContextAccessor>();
         }
-        protected override void OnBefore(IInvocation ınvocation)
+        protected override void OnBefore(IInvocation invocation)
         {
             var roleClaims = _httpContextAccessor.HttpContext.User.ClaimRoles();
             foreach (var role in _roles)
